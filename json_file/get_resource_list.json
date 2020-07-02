@@ -108,7 +108,7 @@
         },
         {
             "IsRecommend": 0,
-            "IsTrending": 1,
+            "IsTrending": 0,
             "IsVip": 0,
             "code": "30010",
             "group": "Style",
@@ -119,7 +119,7 @@
         },
         {
             "IsRecommend": 0,
-            "IsTrending": 0,
+            "IsTrending": 1,
             "IsVip": 1,
             "code": "30034",
             "group": "Play",
