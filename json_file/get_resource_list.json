@@ -20,7 +20,7 @@
         },
         {
             "IsRecommend": 1,
-            "IsTrending": 1,
+            "IsTrending": 0,
             "IsVip": 0,
             "code": "30021",
             "group": "Story",
@@ -31,7 +31,7 @@
         },
         {
             "IsRecommend": 0,
-            "IsTrending": 0,
+            "IsTrending": 1,
             "IsVip": 0,
             "code": "30009",
             "group": "Beat",
@@ -42,7 +42,7 @@
         },
         {
             "IsRecommend": 1,
-            "IsTrending": 0,
+            "IsTrending": 1,
             "IsVip": 0,
             "code": "30064",
             "group": "Style",
