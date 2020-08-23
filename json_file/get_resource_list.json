@@ -11,6 +11,28 @@
             "IsRecommend": 1,
             "IsTrending": 1,
             "IsVip": 1,
+            "code": "30049",
+            "group": "Story",
+            "lockType": 0,
+            "priority": 1755,
+            "resImageNum": 7,
+            "title": "Gorgeous"
+        },        
+        {
+            "IsRecommend": 1,
+            "IsTrending": 1,
+            "IsVip": 1,
+            "code": "30088",
+            "group": "Style",
+            "lockType": 0,
+            "priority": 1755,
+            "resImageNum": 7,
+            "title": "Sour Candy"
+        },
+        {
+            "IsRecommend": 1,
+            "IsTrending": 1,
+            "IsVip": 1,
             "code": "20003",
             "group": "Story",
             "lockType": 0,
